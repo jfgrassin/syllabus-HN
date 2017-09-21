@@ -1,0 +1,38 @@
+---
+title: "Syllabus HN"
+subtitle: "Option IB2 - Humanités Numériques - 2017-2018"
+output:
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+---
+###Informations générales
+
+Du 21 septembre au 21 décembre, le jeudi de 14 heures à 15 heures 45. Salle BR20
+
+**_Enseignant_**: Jean-François Grassin [jean-francois.grassin@univ-lyon2.fr](mailto:jean-francois.grassin@univ-lyon2.fr)
+
+###Description
+
+Nous vivons aujourd’hui dans un monde numérique. Notre vie quotidienne est accompagnée par l’usage d’outils connectés. Ce monde numérique nous amène à nous poser un certain nombre de questions : Quels sont nos usages numériques aujourd’hui ? Comment façonnent-ils nos identités, nos pratiques, nos relations ? Comment lisons-nous aujourd’hui (où, quand avec quels outils) et pourquoi ? Que lit-on dans les lieux publics, les cafés, les transports ?... Comment nous informons-nous aujourd’hui ? Comment apprenons-nous aujourd’hui ? Ces environnements numériques nous aident-ils ou nous surveillent-ils, nous contrôlent-ils ?
+
+Ce cours peut se formuler en trois propositions :
+
+- **_Réfléchir à notre vie numérique_** : En quoi les outils numériques nous font vivre différemment l’espace et le temps de nos relations humaines ? Comment utilisons-nous ces outils pour nous intégrer à la vie française ?
+
+- **_Utiliser des outils numériques pour lire_** en français
+
+- **_Écrire pour le web_**, en mixant le son, l’image, les cartes, les textes, afin de rendre compte de notre vie urbaine.
+
+###Objectifs d’apprentissage
+
+Les étudiants seront amenés à
+
+- Echanger sur leurs pratiques numériques et leurs activités dans la ville, les décrire et les présenter ;
+- Partager leur point de vue et débattre ;
+- Lire des textes à l’aide d’outils numériques ;
+- Ecrire avec des outils numériques pour le web, en utilisant textes, sons et images ;
+- Se corriger et améliorer leur écrit avec des outils numériques.
